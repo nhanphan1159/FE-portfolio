@@ -12,7 +12,7 @@ import {
 } from "./types/sections";
 
 export const greetings: GreetingsType = {
-  name: "Phan Huynh Huu Nhan",
+  name: "Huu Nhan",
   title: "Hi all, I'm Huu Nhan",
   description:
     "I'm a passionate Front End developer with experience developing Front End applications with ReactJS, NextJS, Vite, Vue. I am strongly interested in learning new technologies and implementing them in my projects. I'm a self-motivated and hardworking individual who is always ready to learn new things and work in a team.",
@@ -155,7 +155,7 @@ export const feedbacks: FeedbackType[] = [
 
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
-  title: "Phan Huynh Huu Nhan",
+  title: "Huu Nhan",
   description: greetings.description,
   author: "Phan Huynh Huu Nhan",
   image: "https://avatars.githubusercontent.com/u/59178380?v=4",
@@ -163,10 +163,7 @@ export const seoData: SEODataType = {
   keywords: [
     "Hanzla",
     "Phan Huynh Huu Nhan",
-    "@1hanzla100",
-    "1hanzla100",
-    "Portfolio",
-    "Hanzla Portfolio ",
+    "Portfolio",,
     "Phan Huynh Huu Nhan Portfolio",
   ],
 };
