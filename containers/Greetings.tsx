@@ -42,7 +42,9 @@ const Greetings = () => {
                         <span className="btn-inner--icon mr-1">
                           <i className="fa fa-file" />
                         </span>
-                        <span className="btn-inner--text">See My Resume</span>
+                        <a href="/cv/CV-HuuNhan.pdf" download className="text-black btn-inner--text">
+                          See My Resume
+                        </a>
                       </Button>
                     </div>
                   )}
