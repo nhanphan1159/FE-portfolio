@@ -155,15 +155,10 @@ export const feedbacks: FeedbackType[] = [
 
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
-  title: "Huu Nhan",
+  title: "Phan Huynh Huu Nhan",
   description: greetings.description,
   author: "Phan Huynh Huu Nhan",
   image: "https://avatars.githubusercontent.com/u/59178380?v=4",
   url: "https://developer-portfolio-1hanzla100.vercel.app",
-  keywords: [
-    "Hanzla",
-    "Phan Huynh Huu Nhan",
-    "Portfolio",,
-    "Phan Huynh Huu Nhan Portfolio",
-  ],
+  keywords: ["Phan Huynh Huu Nhan", "Portfolio", "Phan Huynh Huu Nhan Portfolio"],
 };
